@@ -8,6 +8,7 @@ public class Main {
     }
     private static void sayHello(){
         System.out.println("你好");
+		// 12132
         System.out.println("IDEA add");//123456
     }
 }
