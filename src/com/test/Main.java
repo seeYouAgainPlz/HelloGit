@@ -8,5 +8,6 @@ public class Main {
     }
     private static void sayHello(){
         System.out.println("你好");
+        System.out.println("IDEA add");
     }
 }
